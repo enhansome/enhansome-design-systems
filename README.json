@@ -1,19 +1,9 @@
 {
-  "items": [
-    {
-      "description": "*Projects marked as open source may not always be open to use. Always check the license of these projects before using them.\nAlthough 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.",
-      "items": [],
-      "title": "Notes"
-    },
-    {
-      "description": "Cover icon: 'Solar System' by Andrejs Kirma from the Noun Project",
-      "items": [],
-      "title": "Credits"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T13:33:38.085Z",
+    "last_updated": "2026-08-19T12:28:44.566Z",
     "original_repository": "alexpate/awesome-design-systems",
+    "original_repository_id": 93558276,
     "original_repository_sha": "4129da3ce4bcababbbec66a278c0f76d6e3387cb",
     "enhanced_repository": "enhansome/enhansome-design-systems",
     "enhanced_repository_description": null,
