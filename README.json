@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T12:43:50Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99170
+            "stars": 99172
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-22T16:15:30Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40589
+            "stars": 40590
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-24T09:17:54Z",
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20226
+            "stars": 20227
           }
         },
         {
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 93611204,
             "language": "Nunjucks",
-            "last_commit": "2026-08-24T13:28:35Z",
+            "last_commit": "2026-08-24T13:43:26Z",
             "owner": "alphagov",
             "repo": "govuk-design-system",
             "stars": 663
@@ -675,7 +675,7 @@
             "last_commit": "2026-08-24T13:36:11Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9383
+            "stars": 9384
           }
         },
         {
@@ -732,10 +732,10 @@
             "archived": false,
             "id": 550054675,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:39:53Z",
+            "last_commit": "2026-08-24T13:41:49Z",
             "owner": "public-ui",
             "repo": "kolibri",
-            "stars": 276
+            "stars": 277
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2026-08-22T17:15:58Z",
             "owner": "mantinedev",
             "repo": "mantine",
-            "stars": 31601
+            "stars": 31602
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2026-08-24T09:17:54Z",
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20226
+            "stars": 20227
           }
         },
         {
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:40:52.280Z",
+    "last_updated": "2026-08-24T13:51:39.375Z",
     "original_repository": "alexpate/awesome-design-systems",
     "original_repository_id": 93558276,
     "original_repository_sha": "4129da3ce4bcababbbec66a278c0f76d6e3387cb",
