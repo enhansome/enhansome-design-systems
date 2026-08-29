@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+            "homepage": "https://react-spectrum.adobe.com",
             "id": 208362715,
             "language": null,
-            "last_commit": "2026-08-28T22:20:56Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:43:08Z",
+            "open_issues": 591,
             "owner": "adobe",
             "repo": "react-spectrum",
-            "stars": 15826
+            "stars": 15826,
+            "topics": [
+              "accessibility",
+              "design-systems",
+              "react",
+              "react-components",
+              "ui-components",
+              "wai-aria"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -26,12 +38,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An enterprise-class UI design language and React UI library",
+            "homepage": "https://ant.design",
             "id": 34526884,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:21:33Z",
+            "open_issues": 1105,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99245
+            "stars": 99255,
+            "topics": [
+              "ant-design",
+              "antd",
+              "design-systems",
+              "react",
+              "typescript",
+              "ui-kit",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -42,12 +67,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.",
+            "homepage": "https://ui.docs.amplify.aws",
             "id": 351548334,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T11:28:30Z",
+            "open_issues": 224,
             "owner": "aws-amplify",
             "repo": "amplify-ui",
-            "stars": 1142
+            "stars": 1142,
+            "topics": [
+              "amplify",
+              "angular",
+              "aws",
+              "components",
+              "design-system",
+              "react",
+              "vue",
+              "xstate"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -58,12 +97,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ ] Pattern library 🐙",
+            "homepage": "https://bloom-seven-gules.now.sh",
             "id": 65029029,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-04T14:53:22Z",
+            "open_issues": 19,
             "owner": "appearhere",
             "repo": "bloom",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "jellyfish",
+              "pattern-library",
+              "react",
+              "style-guide"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -74,12 +123,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🦚 UI kit for decentralized apps",
+            "homepage": "https://ui.aragon.org/",
             "id": 105753403,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-08T16:42:27Z",
+            "open_issues": 62,
             "owner": "aragon",
             "repo": "ui",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "react",
+              "react-spring",
+              "styled-components",
+              "ui-kit",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -90,12 +150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Artsy's design system",
+            "homepage": "https://palette-storybook.artsy.net/",
             "id": 132026332,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T10:25:31Z",
+            "open_issues": 32,
             "owner": "artsy",
             "repo": "palette",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -106,12 +171,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0 (DEPRECATED)",
+            "homepage": "https://at.aotu.io",
             "id": 94955427,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-01-12T09:50:00Z",
+            "open_issues": 89,
             "owner": "AT-UI",
             "repo": "at-ui",
-            "stars": 2318
+            "stars": 2318,
+            "topics": [
+              "at-ui",
+              "ui",
+              "uikit",
+              "vue",
+              "vue2"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -122,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A central design system for all Digital Collaboration Division products. This repo includes development packages and design files.",
+            "homepage": "https://design.gccollab.ca/",
             "id": 113338898,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-06-13T17:38:24Z",
+            "open_issues": 51,
             "owner": "gctools-outilsgc",
             "repo": "aurora-design-system",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -138,12 +219,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚗💨 AutoGuru's design system",
+            "homepage": "http://overdrive.autoguru.io",
             "id": 174054337,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T22:15:16Z",
+            "open_issues": 15,
             "owner": "autoguru-au",
             "repo": "overdrive",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "component",
+              "design-system",
+              "front-end",
+              "library",
+              "react",
+              "storybook",
+              "styleguide",
+              "typescript",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -154,12 +250,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React components for Cloudscape Design System",
+            "homepage": "https://cloudscape.design/",
             "id": 501218027,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:55:21Z",
+            "open_issues": 204,
             "owner": "cloudscape-design",
             "repo": "components",
-            "stars": 2637
+            "stars": 2637,
+            "topics": [
+              "components",
+              "design-system",
+              "react",
+              "scss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -170,12 +277,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Backpack Design System for the Web",
+            "homepage": "https://skyscanner.design",
             "id": 85820377,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T08:27:42Z",
+            "open_issues": 24,
             "owner": "Skyscanner",
             "repo": "backpack",
-            "stars": 543
+            "stars": 543,
+            "topics": [
+              "backpack",
+              "component-library",
+              "design-system",
+              "nodejs",
+              "react",
+              "skyscanner"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -186,12 +305,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basis Design System",
+            "homepage": "https://basis.vercel.app",
             "id": 232014834,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-13T05:12:28Z",
+            "open_issues": 36,
             "owner": "LatitudeFinancialOSS",
             "repo": "basis",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "components-library",
+              "design-system",
+              "emotion",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -202,12 +331,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A customizable and extensible Design System framework for React.js projects",
+            "homepage": "https://www.bento-ds.com",
             "id": 432209558,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T21:38:29Z",
+            "open_issues": 38,
             "owner": "buildo",
             "repo": "bento-design-system",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "design-system",
+              "figma",
+              "react",
+              "react-aria",
+              "typescript",
+              "vanilla-extract"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -218,12 +359,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BLiP Toolkit is a compilation of SCSS configuration and Vanilla JS components made to fit BLiP's needs",
+            "homepage": "http://design.blip.ai/",
             "id": 129412593,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-06T20:57:54Z",
+            "open_issues": 13,
             "owner": "takenet",
             "repo": "blip-toolkit",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "blip",
+              "css",
+              "design",
+              "javascript",
+              "scss",
+              "styles",
+              "toolkit"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -234,12 +388,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React-based UI toolkit for the web",
+            "homepage": "https://blueprintjs.com/",
             "id": 71939872,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:29:10Z",
+            "open_issues": 940,
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 22019
+            "stars": 22021,
+            "topics": [
+              "blueprint",
+              "components",
+              "design",
+              "lerna",
+              "octo-correct-managed",
+              "react",
+              "sass",
+              "system",
+              "table",
+              "toolkit",
+              "typescript",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -250,12 +422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://bold.bridge.ufsc.tech/",
             "id": 102393541,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T22:00:11Z",
+            "open_issues": 51,
             "owner": "laboratoriobridge",
             "repo": "bold",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -266,12 +443,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Themeable design system for the SEEK Group",
+            "homepage": "https://seek-oss.github.io/braid-design-system",
             "id": 151019419,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:21:13Z",
+            "open_issues": 3,
             "owner": "seek-oss",
             "repo": "braid-design-system",
-            "stars": 1571
+            "stars": 1571,
+            "topics": [
+              "babel",
+              "css-modules",
+              "design-system",
+              "front-end",
+              "owner-experience-platforms",
+              "react",
+              "style-guide",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -282,12 +473,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library of styles, components and associated assets to build UIs for the web. Part of buildit's Gravity design system.",
+            "homepage": "http://style.buildit.digital/",
             "id": 94554467,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-01-07T19:56:11Z",
+            "open_issues": 108,
             "owner": "buildit",
             "repo": "gravity-ui-web",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "buildit-gravity",
+              "css",
+              "design-systems",
+              "eyeglass-module",
+              "sass",
+              "styleguide",
+              "ui",
+              "ui-components",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -298,12 +504,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build themeable React & React Native applications with your Bumbag 👝",
+            "homepage": "https://bumbag.style",
             "id": 280813836,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-06T08:49:14Z",
+            "open_issues": 65,
             "owner": "jxom",
             "repo": "bumbag-ui",
-            "stars": 1016
+            "stars": 1016,
+            "topics": [
+              "awesome",
+              "bag",
+              "bum",
+              "bumbag",
+              "design",
+              "fannypack",
+              "get",
+              "kit",
+              "on",
+              "react",
+              "system",
+              "ui",
+              "your"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -314,12 +539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo will collect all basic BuzzFeed styling CSS. ",
+            "homepage": null,
             "id": 32542581,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-12-22T15:14:34Z",
+            "open_issues": 26,
             "owner": "buzzfeed",
             "repo": "solid",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -330,12 +560,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A design system and React component library for the web brought to you by CA Technologies.",
+            "homepage": "http://mineral-ui.netlify.com",
             "id": 87827232,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-06T17:57:27Z",
+            "open_issues": 63,
             "owner": "mineral-ui",
             "repo": "mineral-ui",
-            "stars": 555
+            "stars": 555,
+            "topics": [
+              "accessibility",
+              "components",
+              "design-systems",
+              "mineral-ui",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -346,12 +587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "REI Cedar component library for Vue 3",
+            "homepage": null,
             "id": 379663484,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-26T15:13:37Z",
+            "open_issues": 4,
             "owner": "rei",
             "repo": "rei-cedar",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -362,12 +608,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chakra UI is a component system for building SaaS products with speed ⚡️",
+            "homepage": "https://chakra-ui.com",
             "id": 202890778,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:32:38Z",
+            "open_issues": 12,
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40599
+            "stars": 40600,
+            "topics": [
+              "a11y",
+              "accessible",
+              "ark-ui",
+              "chakra-ui",
+              "component",
+              "css-in-js",
+              "dark-mode",
+              "design-system",
+              "react",
+              "react-components",
+              "reactjs",
+              "styled",
+              "ui-components",
+              "ui-library",
+              "uikit",
+              "wai-aria"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -378,12 +646,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "City of Boston javascript webapps managed by DoIT Digital Team.",
+            "homepage": "https://www.boston.gov/digital",
             "id": 111124915,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T18:04:22Z",
+            "open_issues": 10,
             "owner": "CityOfBoston",
             "repo": "digital",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "boston",
+              "boston-digital-team",
+              "boston-gov",
+              "city",
+              "city-government",
+              "cityofboston",
+              "civic-tech",
+              "digital-cities",
+              "digital-team",
+              "doit-boston",
+              "gov",
+              "government",
+              "government-innovation",
+              "open-source",
+              "smart-cities",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -394,12 +684,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":gem: Cloudflare UI Framework",
+            "homepage": null,
             "id": 60779483,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-04-14T22:52:40Z",
+            "open_issues": 2,
             "owner": "cloudflare",
             "repo": "cf-ui",
-            "stars": 1293
+            "stars": 1293,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -410,12 +705,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A design system by Contentful ",
+            "homepage": "https://f36.contentful.com",
             "id": 153783368,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:22:59Z",
+            "open_issues": 26,
             "owner": "contentful",
             "repo": "forma-36",
-            "stars": 361
+            "stars": 361,
+            "topics": [
+              "contentful-ui",
+              "design-system",
+              "monorepo",
+              "react",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -426,12 +732,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decathlon Design System UI components for web applications",
+            "homepage": "https://decathlon.github.io/vitamin-web",
             "id": 322056386,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-06T14:13:53Z",
+            "open_issues": 8,
             "owner": "Decathlon",
             "repo": "vitamin-web",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "accessibility",
+              "components",
+              "css",
+              "decathlon",
+              "design-system",
+              "design-tokens",
+              "html",
+              "lerna",
+              "libraries",
+              "monorepo",
+              "nx",
+              "showcases",
+              "storybook",
+              "styleguide",
+              "tailwindcss",
+              "ui-components",
+              "ui-kit",
+              "ui-library",
+              "vitamin",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -442,12 +774,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦄 Decentraland UI",
+            "homepage": "https://ui.decentraland.org",
             "id": 138225704,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T14:02:24Z",
+            "open_issues": 21,
             "owner": "decentraland",
             "repo": "ui",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "components",
+              "decentraland",
+              "react",
+              "semantic-ui",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -458,12 +801,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pure CSS framework designed & developed by eBay for a branded, e-commerce marketplace.",
+            "homepage": "https://opensource.ebay.com/skin/",
             "id": 13373214,
             "language": "Marko",
+            "license": "MIT",
             "last_commit": "2025-04-28T18:08:04Z",
+            "open_issues": 0,
             "owner": "eBay",
             "repo": "skin",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "a11y",
+              "accessibility",
+              "aria",
+              "bem",
+              "bem-methodology",
+              "css",
+              "css-framework",
+              "ebay",
+              "html",
+              "less",
+              "library",
+              "styles",
+              "stylesheets"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -474,12 +836,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elastic UI Framework 🙌",
+            "homepage": "https://eui.elastic.co/",
             "id": 107422373,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T22:19:10Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:17:04Z",
+            "open_issues": 221,
             "owner": "elastic",
             "repo": "eui",
-            "stars": 6346
+            "stars": 6346,
+            "topics": [
+              "css-in-js",
+              "design-system",
+              "elasticsearch",
+              "eui",
+              "kibana",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -490,12 +864,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "✨ accessible, battle-tested React components with infinite composability",
+            "homepage": "https://boundless.js.org/",
             "id": 75877570,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-27T00:35:52Z",
+            "open_issues": 6,
             "owner": "enigma-io",
             "repo": "boundless",
-            "stars": 239
+            "stars": 239,
+            "topics": [
+              "accessible",
+              "react",
+              "react-component",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -506,12 +890,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌲 Evergreen React UI Framework by Segment",
+            "homepage": "https://evergreen.segment.com",
             "id": 98789146,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-25T23:25:22Z",
+            "open_issues": 81,
             "owner": "segmentio",
             "repo": "evergreen",
-            "stars": 12424
+            "stars": 12424,
+            "topics": [
+              "component-library",
+              "design-systems",
+              "evergreen",
+              "react",
+              "segment",
+              "ui",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -522,12 +919,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firefox’s Photon Design System.",
+            "homepage": "https://design.firefox.com/photon/",
             "id": 92306609,
             "language": "SCSS",
+            "license": "MPL-2.0",
             "last_commit": "2023-09-25T05:49:04Z",
+            "open_issues": 80,
             "owner": "FirefoxUX",
             "repo": "photon",
-            "stars": 276
+            "stars": 276,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -538,12 +940,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source UI component library and front-end development framework based on Tailwind CSS",
+            "homepage": "https://flowbite.com",
             "id": 390399065,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-06-27T08:36:12Z",
+            "open_issues": 257,
             "owner": "themesberg",
             "repo": "flowbite",
-            "stars": 9323
+            "stars": 9324,
+            "topics": [
+              "components",
+              "css",
+              "design-system",
+              "eslint",
+              "figma",
+              "flowbite",
+              "html",
+              "hugo",
+              "javascript",
+              "prettier",
+              "tailwind",
+              "tailwindcss",
+              "typescript",
+              "ui-components",
+              "ui-framework",
+              "ui-library",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -554,12 +979,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+            "homepage": "https://react.fluentui.dev",
             "id": 60537144,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:11:26Z",
+            "open_issues": 770,
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20232
+            "stars": 20232,
+            "topics": [
+              "components",
+              "fluent",
+              "microsoft",
+              "office-ui-fabric",
+              "react",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -570,12 +1007,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
+            "homepage": "https://get.foundation",
             "id": 2573058,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-01-21T22:11:53Z",
+            "open_issues": 80,
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29786
+            "stars": 29786,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -586,12 +1028,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇫🇷 Official french government's design system (Système de Design de l'État)",
+            "homepage": "https://www.systeme-de-design.gouv.fr/",
             "id": 271771309,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T12:34:21Z",
+            "open_issues": 167,
             "owner": "GouvernementFR",
             "repo": "dsfr",
-            "stars": 388
+            "stars": 388,
+            "topics": [
+              "css",
+              "design-system",
+              "dsfr",
+              "government",
+              "html",
+              "js"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -602,12 +1056,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Documentation and policies for Material Components (all platforms)",
+            "homepage": null,
             "id": 75324506,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-05-13T06:41:29Z",
+            "open_issues": 24,
             "owner": "material-components",
             "repo": "material-components",
-            "stars": 1095
+            "stars": 1095,
+            "topics": [
+              "material",
+              "material-components",
+              "material-design"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -618,12 +1081,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One place for service teams to find styles, components and patterns for designing government services.",
+            "homepage": "https://www.gov.uk/design-system",
             "id": 93611204,
             "language": "Nunjucks",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:13:30Z",
+            "open_issues": 317,
             "owner": "alphagov",
             "repo": "govuk-design-system",
-            "stars": 666
+            "stars": 666,
+            "topics": [
+              "design-systems",
+              "government",
+              "govuk-design-system",
+              "govuk-design-system-team",
+              "portfolio"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -634,12 +1108,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yoga design-system: a scientific system of practices made to help each one of us achieve our highest potential and experience.",
+            "homepage": "https://gympass.github.io/yoga/",
             "id": 206095591,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T12:55:16Z",
+            "open_issues": 19,
             "owner": "gympass",
             "repo": "yoga",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "design-system",
+              "gympass",
+              "hacktoberfest",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -650,12 +1134,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helios Design System",
+            "homepage": "https://helios.hashicorp.design",
             "id": 423604713,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:02:09Z",
+            "license": "MPL-2.0",
+            "last_commit": "2026-08-29T00:19:42Z",
+            "open_issues": 31,
             "owner": "hashicorp",
             "repo": "design-system",
-            "stars": 512
+            "stars": 512,
+            "topics": [
+              "components",
+              "design-system",
+              "design-systems",
+              "design-tokens",
+              "emberjs",
+              "hashicorp",
+              "helios",
+              "icons"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -666,12 +1164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Seed: A component-first CSS design system.",
+            "homepage": "https://developer.helpscout.com/seed/",
             "id": 75648062,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-11-02T22:33:14Z",
+            "open_issues": 0,
             "owner": "helpscout",
             "repo": "seed-framework",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -682,12 +1185,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package",
+            "homepage": "https://grommet.io",
             "id": 32787174,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T22:42:54Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:05:38Z",
+            "open_issues": 472,
             "owner": "grommet",
             "repo": "grommet",
-            "stars": 8352
+            "stars": 8353,
+            "topics": [
+              "a11y",
+              "babel",
+              "design-system",
+              "grommet",
+              "hacktoberfest",
+              "javascript",
+              "react",
+              "ux-framework"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -698,12 +1215,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "HubSpot Canvas is the design system that we at HubSpot use to build our products.",
+            "homepage": "https://canvas.hubspot.com",
             "id": 106751928,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-01T00:29:33Z",
+            "open_issues": 0,
             "owner": "HubSpot",
             "repo": "canvas",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -714,12 +1236,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A design system built by IBM",
+            "homepage": "https://www.carbondesignsystem.com",
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:08:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:01:07Z",
+            "open_issues": 1027,
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9391
+            "stars": 9392,
+            "topics": [
+              "design-system",
+              "hacktoberfest",
+              "javascript",
+              "react",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -730,12 +1263,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of JetBrains Web UI components",
+            "homepage": "https://jetbrains.github.io/ring-ui",
             "id": 97698189,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T17:18:23Z",
+            "open_issues": 12,
             "owner": "JetBrains",
             "repo": "ring-ui",
-            "stars": 3786
+            "stars": 3786,
+            "topics": [
+              "components",
+              "jetbrains-ui",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -746,12 +1288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Globally shared packages for PIE",
+            "homepage": "https://pie.design",
             "id": 500784681,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:28:54Z",
+            "open_issues": 14,
             "owner": "justeattakeaway",
             "repo": "pie",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -762,12 +1309,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Culture Amp's Kaizen Design System :seedling:",
+            "homepage": "https://cultureamp.design",
             "id": 189330249,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:03:45Z",
+            "open_issues": 16,
             "owner": "cultureamp",
             "repo": "kaizen-design-system",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "design-system",
+              "design-systems",
+              "kaizen",
+              "kaizen-design-system",
+              "react",
+              "storybook",
+              "styleguide",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -778,12 +1339,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The accessible HTML-Standard",
+            "homepage": "https://public-ui.github.io",
             "id": 550054675,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:30:28Z",
+            "license": "EUPL-1.2",
+            "last_commit": "2026-08-29T04:11:28Z",
+            "open_issues": 211,
             "owner": "public-ui",
             "repo": "kolibri",
-            "stars": 279
+            "stars": 279,
+            "topics": [
+              "a11y",
+              "accessibility",
+              "angular",
+              "barrierefreiheit",
+              "client-side-rendering",
+              "csr",
+              "design-system",
+              "react",
+              "service-side",
+              "service-side-generation",
+              "service-side-rendering",
+              "solid-js",
+              "ssg",
+              "ssr",
+              "styleguide",
+              "theming",
+              "ui",
+              "vuejs",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -794,12 +1380,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kontur UI design system",
+            "homepage": "https://tech.skbkontur.ru/kontur-ui",
             "id": 71260457,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T12:39:04Z",
+            "open_issues": 142,
             "owner": "skbkontur",
             "repo": "retail-ui",
-            "stars": 270
+            "stars": 270,
+            "topics": [
+              "components",
+              "design-system",
+              "kontur-ui",
+              "react",
+              "skbkontur",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -810,12 +1408,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KRDS HTML Component Kit을 설치하여 디자인 시스템을 쉽게 적용할 수 있도록 가이드라인을 제공한다.",
+            "homepage": "https://www.krds.go.kr/",
             "id": 902708502,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-01-12T04:18:17Z",
+            "open_issues": 0,
             "owner": "KRDS-uiux",
             "repo": "krds-uiux",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "design-system",
+              "html-components",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -826,12 +1433,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully featured React components library",
+            "homepage": "https://mantine.dev",
             "id": 327628682,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T17:15:58Z",
+            "open_issues": 54,
             "owner": "mantinedev",
             "repo": "mantine",
-            "stars": 31631
+            "stars": 31631,
+            "topics": [
+              "dark-mode",
+              "dark-theme",
+              "hooks",
+              "react",
+              "typescript",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -842,12 +1461,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bootstrap 5 & Material Design UI KIT",
+            "homepage": "https://mdbootstrap.com/docs/standard/",
             "id": 23069399,
             "language": "SCSS",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-24T12:10:47Z",
+            "open_issues": 26,
             "owner": "mdbootstrap",
             "repo": "mdb-ui-kit",
-            "stars": 24255
+            "stars": 24255,
+            "topics": [
+              "bootstrap",
+              "bootstrap-material",
+              "bootstrap-template",
+              "bootstrap-theme",
+              "bootstrap-themes",
+              "bootstrap-ui-kit",
+              "bootstrap5",
+              "css",
+              "framework",
+              "html",
+              "javascript",
+              "material",
+              "material-design",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -858,12 +1497,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materialize, a CSS Framework based on Material Design",
+            "homepage": "https://materializecss.com",
             "id": 23974149,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T13:49:11Z",
+            "open_issues": 791,
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38813
+            "stars": 38814,
+            "topics": [
+              "css",
+              "css-framework",
+              "design",
+              "framework",
+              "javascript",
+              "material",
+              "material-design"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -874,12 +1526,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+            "homepage": "https://react.fluentui.dev",
             "id": 60537144,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:11:26Z",
+            "open_issues": 770,
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20232
+            "stars": 20232,
+            "topics": [
+              "components",
+              "fluent",
+              "microsoft",
+              "office-ui-fabric",
+              "react",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -890,12 +1554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A design system for Mozilla websites.",
+            "homepage": "https://protocol.mozilla.org/",
             "id": 122381861,
             "language": "SCSS",
+            "license": "MPL-2.0",
             "last_commit": "2026-06-24T17:27:51Z",
+            "open_issues": 80,
             "owner": "mozilla",
             "repo": "protocol",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -906,12 +1575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The NASA Web Design System helps NASA build fast, accessible, mobile-friendly websites.",
+            "homepage": null,
             "id": 227652111,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2025-06-14T02:37:17Z",
+            "open_issues": 0,
             "owner": "bruffridge",
             "repo": "nasawds",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -922,12 +1596,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The New York State Design System helps state agencies build fast, accessible, mobile-friendly applications and sites.",
+            "homepage": "https://designsystem.ny.gov",
             "id": 803818614,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:58:25Z",
+            "open_issues": 126,
             "owner": "ITS-HCD",
             "repo": "nysds",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "design-system",
+              "design-tokens",
+              "nysds",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -938,12 +1622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build and design consistent, efficient, and accessible UIs for all Okta users.",
+            "homepage": "https://github.com/okta/odyssey",
             "id": 183499724,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T18:36:47Z",
+            "open_issues": 0,
             "owner": "okta",
             "repo": "odyssey",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -954,12 +1643,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persona Design System, built on top Nuxt3, Typescript and Tailwind",
+            "homepage": "https://persona.privyid.dev",
             "id": 469947229,
             "language": "Vue",
-            "last_commit": "2026-08-28T17:53:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:09:48Z",
+            "open_issues": 28,
             "owner": "privy-open-source",
             "repo": "design-system",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "nuxt-module",
+              "nuxt3",
+              "nuxt3-starter",
+              "scaffolding",
+              "ui-components",
+              "vue-component-library",
+              "vue-template",
+              "vue3",
+              "vue3-components"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -970,12 +1674,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSTOR's design system",
+            "homepage": "https://pharos.jstor.org",
             "id": 364246649,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:17:16Z",
+            "open_issues": 73,
             "owner": "ithaka",
             "repo": "pharos",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "ithaka-owner-pharos",
+              "jstor",
+              "lit",
+              "lit-element",
+              "lit-html",
+              "pharos",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -986,12 +1703,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of React UI components that supports Pinterest’s design language",
+            "homepage": "https://gestalt.pinterest.systems/",
             "id": 121806807,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T20:19:49Z",
+            "open_issues": 8,
             "owner": "pinterest",
             "repo": "gestalt",
-            "stars": 4369
+            "stars": 4369,
+            "topics": [
+              "design-system",
+              "javascript",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1002,12 +1728,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pivotal's design system & component library",
+            "homepage": "https://styleguide.pivotal.io",
             "id": 19867319,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-15T20:16:50Z",
+            "open_issues": 61,
             "owner": "pivotal-cf",
             "repo": "pivotal-ui",
-            "stars": 639
+            "stars": 639,
+            "topics": [
+              "component-library",
+              "design-system",
+              "pivotal",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1018,12 +1754,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This library (classic) is officially in maintenance mode only. For the latest library, please see the TVA project (https://pluralsight.github.io/tva/).",
+            "homepage": "https://design-system.pluralsight.com",
             "id": 90648288,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-03T14:21:25Z",
+            "open_issues": 6,
             "owner": "pluralsight",
             "repo": "classic-design-system",
-            "stars": 295
+            "stars": 295,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1034,12 +1775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official Porsche Design System repository, offering fundamental UXI guidelines and a library of reusable web components to enable designers and developers to build consistent, intuitive, and high-quality digital products that reflect the Porsche brand.",
+            "homepage": "https://designsystem.porsche.com",
             "id": 160824214,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:59:53Z",
+            "open_issues": 194,
             "owner": "porsche-design-system",
             "repo": "porsche-design-system",
-            "stars": 648
+            "stars": 648,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1050,12 +1796,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Priceline.com Design System",
+            "homepage": "https://priceline.github.io/design-system/",
             "id": 97530717,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-15T13:27:25Z",
+            "open_issues": 42,
             "owner": "priceline",
             "repo": "design-system",
-            "stars": 728
+            "stars": 728,
+            "topics": [
+              "components",
+              "css",
+              "css-in-js",
+              "design-system",
+              "design-systems",
+              "javascript",
+              "priceline",
+              "react",
+              "styled-components",
+              "styled-system",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1066,12 +1829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of front-end UI components used across Pusher ✨",
+            "homepage": "https://pusher.github.io/chameleon",
             "id": 52163372,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-02-29T01:18:30Z",
+            "open_issues": 5,
             "owner": "pusher",
             "repo": "chameleon",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1082,12 +1850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 😈 UI library for creating interfaces in Rambler guidelines with React power",
+            "homepage": "https://ui-kit.rambler.ru",
             "id": 73190184,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-15T11:41:06Z",
+            "open_issues": 100,
             "owner": "rambler-digital-solutions",
             "repo": "rambler-ui",
-            "stars": 192
+            "stars": 192,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1098,12 +1871,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library of React UI components",
+            "homepage": "https://balena-io-modules.github.io/rendition",
             "id": 80240652,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-10T08:57:57Z",
+            "open_issues": 132,
             "owner": "balena-io-modules",
             "repo": "rendition",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1114,12 +1892,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Salesforce Lightning Design System",
+            "homepage": "https://www.lightningdesignsystem.com",
             "id": 41759029,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-02T19:25:48Z",
+            "open_issues": 41,
             "owner": "salesforce-ux",
             "repo": "design-system",
-            "stars": 3700
+            "stars": 3700,
+            "topics": [
+              "css",
+              "design-systems",
+              "html",
+              "salesforce-lightning"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1130,12 +1918,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sage Design System and Documentation",
+            "homepage": "https://sage.kajabi.com",
             "id": 298073984,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:14:38Z",
+            "open_issues": 30,
             "owner": "Kajabi",
             "repo": "sage-lib",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1146,12 +1939,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fundamental Library - SAP Design System Component Library",
+            "homepage": "https://fundamental.netlify.app/",
             "id": 108157725,
             "language": "SCSS",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-23T11:19:42Z",
+            "open_issues": 0,
             "owner": "SAP",
             "repo": "fundamental",
-            "stars": 271
+            "stars": 271,
+            "topics": [
+              "css",
+              "html5",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1162,12 +1964,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.",
+            "homepage": "http://openui5.org",
             "id": 15085215,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:37:36Z",
+            "open_issues": 115,
             "owner": "UI5",
             "repo": "openui5",
-            "stars": 3313
+            "stars": 3313,
+            "topics": [
+              "css",
+              "featured",
+              "html",
+              "javascript",
+              "open-source",
+              "openui5"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1178,12 +1992,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Living style guide for SEEK, powered by React, webpack, CSS Modules and Less.",
+            "homepage": "https://seek-oss.github.io/seek-style-guide/",
             "id": 56475150,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-07-16T04:23:06Z",
+            "open_issues": 4,
             "owner": "seek-oss",
             "repo": "seek-style-guide",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "babel",
+              "css-modules",
+              "front-end",
+              "less",
+              "react",
+              "style-guide",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1194,12 +2021,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design to Code in one click",
+            "homepage": "https://semi.design",
             "id": 421001366,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T06:59:09Z",
+            "open_issues": 39,
             "owner": "DouyinFE",
             "repo": "semi-design",
-            "stars": 10328
+            "stars": 10329,
+            "topics": [
+              "ai-friendly",
+              "code2design",
+              "dark-mode",
+              "design-system",
+              "design2code",
+              "designops",
+              "designtocode",
+              "figma-plugin",
+              "react",
+              "theme",
+              "ui-libary"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1210,12 +2054,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intergalactic Design System is a constantly developing design system and library of React components.",
+            "homepage": "https://developer.semrush.com/intergalactic/",
             "id": 331962505,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:17:26Z",
+            "open_issues": 24,
             "owner": "semrush",
             "repo": "intergalactic",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "component-library",
+              "components",
+              "d3js",
+              "design-system",
+              "design-systems",
+              "designsystem",
+              "react",
+              "reactjs",
+              "styleguide",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1226,12 +2086,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shoelace is now Web Awesome. Come see what’s new!",
+            "homepage": "https://webawesome.com",
             "id": 98339432,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-14T13:39:51Z",
+            "open_issues": 105,
             "owner": "shoelace-style",
             "repo": "shoelace",
-            "stars": 13847
+            "stars": 13847,
+            "topics": [
+              "css",
+              "designsystem",
+              "html",
+              "javascript",
+              "ui",
+              "ux",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1242,12 +2115,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shopify's Polaris Design System - React implementation (Deprecated)",
+            "homepage": "https://shopify.github.io/polaris-react-archive/",
             "id": 88897663,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T07:11:56Z",
+            "open_issues": 73,
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6173
+            "stars": 6173,
+            "topics": [
+              "component-library",
+              "design-system",
+              "design-systems",
+              "design-tokens",
+              "figma-plugin",
+              "icons",
+              "react",
+              "shopify-polaris",
+              "typescript",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1258,12 +2147,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software products.",
+            "homepage": "https://ix.siemens.io/",
             "id": 538633339,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:24:08Z",
+            "open_issues": 93,
             "owner": "siemens",
             "repo": "ix",
-            "stars": 370
+            "stars": 370,
+            "topics": [
+              "angular",
+              "design-system",
+              "frontend",
+              "industrial",
+              "react",
+              "siemens",
+              "siemens-ix",
+              "stenciljs",
+              "typescript",
+              "ui",
+              "ui-components",
+              "ui-framework",
+              "web",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1274,12 +2183,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SGDS is a frontend framework that aims to provide a beautiful common visual language and user experience for visitors of Singapore Government websites.",
+            "homepage": "https://www.designsystem.tech.gov.sg",
             "id": 193505583,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-28T04:57:36Z",
+            "open_issues": 2,
             "owner": "GovTechSG",
             "repo": "sgds",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "design-system",
+              "javascript",
+              "jekyll",
+              "singapore-government",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1290,12 +2210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stack Overflow’s Design System",
+            "homepage": "https://stackoverflow.design",
             "id": 109884266,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:27:00Z",
+            "open_issues": 56,
             "owner": "StackExchange",
             "repo": "Stacks",
-            "stars": 669
+            "stars": 670,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1306,12 +2231,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strapi.io's design system :rocket:",
+            "homepage": "https://design-system.strapi.io",
             "id": 340397165,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:03:18Z",
+            "open_issues": 28,
             "owner": "strapi",
             "repo": "design-system",
-            "stars": 540
+            "stars": 540,
+            "topics": [
+              "design-system",
+              "hacktoberfest",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1322,12 +2256,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://brandfactory.telefonica.com/mistica",
             "id": 267007215,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-26T12:59:15Z",
+            "open_issues": 3,
             "owner": "Telefonica",
             "repo": "mistica",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "cdco"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1338,12 +2279,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Thumbprint is the design system at Thumbtack.",
+            "homepage": "https://thumbprint.design",
             "id": 166321045,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-21T16:16:00Z",
+            "open_issues": 113,
             "owner": "thumbtack",
             "repo": "thumbprint",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1354,12 +2300,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tizen Wearable CircularUI project is to develop an open source software motivate software developer to creating Tizen Wearable Xamarin Forms app more easily and efficiently.",
+            "homepage": null,
             "id": 131261759,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-07T10:05:00Z",
+            "open_issues": 11,
             "owner": "Samsung",
             "repo": "Tizen.CircularUI",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1370,12 +2321,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paste is a design system for designing and building consistent experiences at Twilio.",
+            "homepage": "https://paste-dsys.com/",
             "id": 198508610,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:17:02Z",
+            "open_issues": 66,
             "owner": "twilio-labs",
             "repo": "paste",
-            "stars": 478
+            "stars": 478,
+            "topics": [
+              "design-system",
+              "twilio",
+              "ui-components",
+              "ux-patterns"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1386,12 +2347,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React Component library implementing the Base design language",
+            "homepage": "https://baseweb.design",
             "id": 124470321,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-07T21:30:47Z",
+            "open_issues": 163,
             "owner": "uber",
             "repo": "baseweb",
-            "stars": 9003
+            "stars": 9003,
+            "topics": [
+              "component-library",
+              "design-systems",
+              "react",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1402,12 +2373,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.",
+            "homepage": "https://vanillaframework.io",
             "id": 31207344,
             "language": "HTML",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T09:41:05Z",
+            "open_issues": 244,
             "owner": "canonical",
             "repo": "vanilla-framework",
-            "stars": 981
+            "stars": 981,
+            "topics": [
+              "css",
+              "css-framework",
+              "hack",
+              "hacktoberfest",
+              "html",
+              "npm",
+              "npm-package",
+              "package",
+              "sass",
+              "vanilla-framework",
+              "web-and-design"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1418,12 +2406,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.",
+            "homepage": "https://Uiverse.io",
             "id": 699018908,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-09-02T14:32:05Z",
+            "open_issues": 14,
             "owner": "uiverse-io",
             "repo": "galaxy",
-            "stars": 12215
+            "stars": 12217,
+            "topics": [
+              "community",
+              "css",
+              "tailwind",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1434,12 +2432,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Untitled UI React is the world’s largest collection of open-source React components built with Tailwind CSS and React Aria. Just copy, paste, and build.",
+            "homepage": "https://www.untitledui.com/react/",
             "id": 1020133970,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:21:18Z",
+            "open_issues": 9,
             "owner": "untitleduico",
             "repo": "react",
-            "stars": 1889
+            "stars": 1889,
+            "topics": [
+              "components",
+              "design-system",
+              "react",
+              "react-aria",
+              "react-aria-components",
+              "tailwindcss",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1450,12 +2461,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A living styleguide and pattern library by uSwitch.",
+            "homepage": "https://ustyle.guide",
             "id": 12296737,
             "language": "Smarty",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-07T19:28:52Z",
+            "open_issues": 47,
             "owner": "uswitch",
             "repo": "ustyle",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "css",
+              "front-end",
+              "sass",
+              "styleguide",
+              "uswitch"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1466,12 +2488,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.",
+            "homepage": "https://designsystem.digital.gov",
             "id": 35968578,
             "language": "SCSS",
-            "last_commit": "2026-08-28T22:17:49Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:50:45Z",
+            "open_issues": 360,
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7165
+            "stars": 7165,
+            "topics": [
+              "design",
+              "design-systems",
+              "government",
+              "uswds"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1482,12 +2514,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 Vibe Design System - Official monday.com UI resources for application development in React.js",
+            "homepage": "https://vibe.monday.com/",
             "id": 301690023,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-27T20:13:23Z",
+            "open_issues": 31,
             "owner": "mondaycom",
             "repo": "vibe",
-            "stars": 671
+            "stars": 671,
+            "topics": [
+              "codemod",
+              "component-library",
+              "design-system",
+              "hacktoberfest",
+              "icons",
+              "javascript",
+              "js",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "monday",
+              "react",
+              "reactjs",
+              "tsx",
+              "typescript",
+              "ui",
+              "ui-components",
+              "ui-library",
+              "vibe",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1498,12 +2556,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⛔️ Deprecated: Vimeo Design System",
+            "homepage": "https://vimeo.github.io/iris",
             "id": 358281746,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-23T19:34:46Z",
+            "open_issues": 4,
             "owner": "vimeo",
             "repo": "iris",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "deprecated"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1514,12 +2579,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Clarity is a scalable, accessible, customizable, open source design system built with web components. Works with any JavaScript framework, built for enterprises, and designed to  be inclusive.",
+            "homepage": "http://clarity.design",
             "id": 69590701,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-16T01:37:07Z",
+            "open_issues": 2,
             "owner": "vmware-archive",
             "repo": "clarity",
-            "stars": 6392
+            "stars": 6392,
+            "topics": [
+              "accessibility",
+              "accessible-components",
+              "accessible-design",
+              "angular",
+              "angular-components",
+              "clarity",
+              "component-library",
+              "components",
+              "css",
+              "design-system",
+              "lit-elements",
+              "typescript",
+              "ui",
+              "ux",
+              "web",
+              "web-components",
+              "web-components-library"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1530,12 +2618,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The VTEX Design System and React component library.",
+            "homepage": "https://styleguide.vtex.com",
             "id": 88881460,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-14T19:52:36Z",
+            "open_issues": 79,
             "owner": "vtex",
             "repo": "styleguide",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "component-library",
+              "design-system",
+              "frontend-components",
+              "hacktoberfest",
+              "react",
+              "react-components",
+              "react-library",
+              "srv-styleguide",
+              "styleguide",
+              "vtex",
+              "xp-developer"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1546,12 +2651,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source tool for building UI Design Systems with Vue.js",
+            "homepage": "https://vueds.com",
             "id": 107857950,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-19T08:22:50Z",
+            "open_issues": 59,
             "owner": "arielsalminen",
             "repo": "vue-design-system",
-            "stars": 2196
+            "stars": 2196,
+            "topics": [
+              "component-library",
+              "components",
+              "design-system",
+              "design-systems",
+              "vue",
+              "vue-styleguidist",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1562,12 +2680,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources for building interfaces with WeWork's design system",
+            "homepage": "https://ray.wework.com",
             "id": 181584183,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-11T19:04:31Z",
+            "open_issues": 35,
             "owner": "wework",
             "repo": "ray",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "css",
+              "design-system",
+              "js",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1578,12 +2706,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customizable design system from Welcome to the jungle (@wttj) with react, typescript, tailwindcss, ariakit and a lot of love 💛 Here you'll find all the core components you need to create a delightful webapp.",
+            "homepage": "https://www.welcome-ui.com",
             "id": 174542973,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:33:30Z",
+            "open_issues": 17,
             "owner": "WTTJ",
             "repo": "welcome-ui",
-            "stars": 673
+            "stars": 673,
+            "topics": [
+              "ariakit",
+              "customizable",
+              "design",
+              "design-system",
+              "design-systems",
+              "jungle",
+              "managed-as-code",
+              "managed-by-renovate-platform",
+              "react",
+              "system",
+              "tailwind",
+              "tailwind-css",
+              "tailwindcss",
+              "tailwindcss-v4",
+              "typescript",
+              "typescript-react",
+              "ui",
+              "ux",
+              "welcome",
+              "xstyled"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1594,12 +2748,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of typography, visual styles and user interface components which are documented for West Midlands Network.",
+            "homepage": "https://designsystem.tfwm.org.uk",
             "id": 220440269,
             "language": "Nunjucks",
+            "license": null,
             "last_commit": "2026-06-01T14:58:56Z",
+            "open_issues": 29,
             "owner": "wmcadigital",
             "repo": "wmn-design-system",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "design-system",
+              "tfwm"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         },
@@ -1610,12 +2772,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Development kits to implement UI following the Workday Canvas Design System (https://canvas.workday.com/). See our Component Storybook -",
+            "homepage": "https://workday.github.io/canvas-kit/",
             "id": 185232950,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T14:40:59Z",
+            "open_issues": 168,
             "owner": "Workday",
             "repo": "canvas-kit",
-            "stars": 357
+            "stars": 357,
+            "topics": [
+              "design-system",
+              "workday"
+            ]
           },
           "first_seen": "2026-08-28T22:46:00.379Z"
         }
@@ -1624,15 +2794,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:46:00.379Z",
+    "last_updated": "2026-08-29T04:14:15.881Z",
     "original_repository_info": {
       "archived": false,
+      "description": "💅🏻 ⚒ A collection of awesome design systems",
+      "homepage": "https://git.io/design-systems",
       "id": 93558276,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2026-04-28T16:03:25Z",
+      "open_issues": 23,
       "owner": "alexpate",
       "repo": "awesome-design-systems",
-      "stars": 25816
+      "stars": 25818,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "design-systems",
+        "hacktoberfest",
+        "pattern-library",
+        "ui-library"
+      ]
     },
     "original_repository_sha": "4129da3ce4bcababbbec66a278c0f76d6e3387cb",
     "enhanced_repository": "enhansome/enhansome-design-systems",
